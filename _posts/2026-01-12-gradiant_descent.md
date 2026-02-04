@@ -7,7 +7,7 @@ math: true
 ---
 
 ### 1. Mathematical Definition
-* **Derivative Coefficient (미분계수)**: This refers to the numerical value representing the **rate of change** of a function's value at a specific point, or the **slope of the tangent line** at that point.
+* **Derivative Coefficient**: This refers to the numerical value representing the **rate of change** of a function's value at a specific point, or the **slope of the tangent line** at that point.
 * In Deep Learning, calculating this value is an absolute requirement for executing **Gradient Descent**.
 
 ### 2. Derivative = 0 vs. Gradient Descent
