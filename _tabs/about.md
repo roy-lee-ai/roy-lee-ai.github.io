@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Recent months 
-Hi, I’m Roy. I graduated from Ohio State University with a B.S. in Data Analytics, where I spent most of my undergraduate years diving deep into mathematics, statistics, and computer science. My peers often called tackling all three disciplines at once "pure madness," and they weren't wrong. It was a grueling journey, but that struggle now serves as the powerhouse for my understanding of AI. Since modern AI is driven by deep learning, it is essentially the convergence of calculus, linear algebra, advanced statistics, and computer science.
+Hi, I’m Jay. I graduated from Ohio State University with a B.S. in Data Analytics, where I spent most of my undergraduate years diving deep into mathematics, statistics, and computer science. My peers often called tackling all three disciplines at once "pure madness," and they weren't wrong. It was a grueling journey, but that struggle now serves as the powerhouse for my understanding of AI. Since modern AI is driven by deep learning, it is essentially the convergence of calculus, linear algebra, advanced statistics, and computer science.
 
 After graduating in May 2025, I spent a lot of time thinking about which industry to apply my skills to. I’ve always believed that our career paths are heavily influenced by the people around us. Following the advice of my brother, who is a cybersecurity engineer in Korea, I realized that the synergy between AI/ML and security would be incredibly powerful. This led me to focus my current search on cybersecurity internships and entry-level opportunities.
 
@@ -27,7 +27,7 @@ Currently, I am simultaneously managing multiple assignments:
 * The Ohio State University, Bachelor of Science in Data Analytics 2021 - 2025
 
 ## Linkedin
-Connect with me on [Linkedin](https://www.linkedin.com/in/roy-lee-ai)
+Connect with me on [Linkedin](https://www.linkedin.com/in/jaekuk)
 
 
 

@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Roy Lee # the main title
+title: Jay Song # the main title
 
-tagline: Roy Lee's playground # it will display as the subtitle
+tagline: Personal note # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,16 +34,16 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Roy Lee
+  name: Jay Song
   email: jsongfoto@gmail.com # change to your email address
-  bio: Data Scientist | Georgia Tech Student
+  bio: SEC/AI | Georgia Tech Student
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/jsongdata # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/roy-lee-ai
+    - https://www.linkedin.com/in/jaekuk
 
 
 
