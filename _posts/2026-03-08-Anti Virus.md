@@ -1,8 +1,8 @@
 ---
 title: "Antivirus tools (Kaspersky, V3, Alyak, etc.)"
 date: 2026-03-07
-categories: [Operating Systems]
-tags: [software]     # TAG names should always be lowercase
+categories: [Software]
+tags: [antivirus]     # TAG names should always be lowercase
 math: true
 ---
 

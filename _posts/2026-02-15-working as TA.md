@@ -2,7 +2,7 @@
 title: "Working as IT Help Desk at a College"
 date: 2026-03-07
 categories: [Helpdesk]
-tags: [teachingassistant]     # TAG names should always be lowercase
+tags: [helpdesk]     # TAG names should always be lowercase
 math: true
 ---
 
