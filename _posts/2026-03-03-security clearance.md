@@ -1,5 +1,5 @@
 ---
-title: "What is a Security Clearance?"
+title: "What is a Security Clearance? (FAQ)"
 date: 2026-03-03
 categories: [Certificate]
 tags: [securityclearance]     # TAG names should always be lowercase

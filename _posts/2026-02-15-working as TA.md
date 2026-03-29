@@ -9,7 +9,7 @@ math: true
 ## The TA Life: Boots on the Ground
 Before joining the ROK Army, I spent my final semester as an undergraduate Teaching Assistant (TA) at a university in Korea. While a TA in the US might focus on grading or tutoring, a TA in Korea is essentially the backbone of the department operations. It was a physically and mentally demanding grind, but the technical field experience was worth every drop of sweat.
 
-<img src="assets/img/ta_jsong1.png" width="300" alt="ta">
+<img src="assets/img/ta_jsong1.png" width="450" alt="ta">
 <p style="font-size: 14px; text-align: center; color: #666;">
 Responding Daily Incidents
 </p>
@@ -25,7 +25,7 @@ I wasn't just a TA; I was the primary contact for every technical hurdle in the 
 * "My account won't log in."
 * ...and the classic: "How do I lock or unlock the classroom? Where is the key?"
 
-<img src="assets/img/ta_jsong2.png" width="300" alt="projecter">
+<img src="assets/img/ta_jsong2.png" width="450" alt="projecter">
 <!-- <p style="font-size: 14px; text-align: center; color: #666;">
 Responding Daily Incidents
 </p> -->

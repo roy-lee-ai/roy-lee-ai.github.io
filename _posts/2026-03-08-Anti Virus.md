@@ -26,7 +26,8 @@ ESTsoft was originally known for its file compression utility, ALZip. However, t
 <img src="https://img1.yna.co.kr/etc/inner/KR/2010/08/18/AKR20100818114900017_01_i_P2.jpg" alt="알약" style="max-width: 500px; width: 100%; height: auto;">
 
 ## GoClean
-GoClean was a popular utility in the 2000s used to optimize Windows memory by cleaning up background processes. As Windows OS became more refined, hardware performance improved, and users became more tech-savvy regarding malware, GoClean gradually lost its market relevance.
+GoClean was a free yet powerful utility in the 2000s that optimized Windows performance by removing unnecessary registry entries, clearing browsing history and cookies, and terminating unused background processes. Through these functions, it also contributed to basic system hardening by reducing unnecessary system exposure.
+However, as Windows OS became more advanced, hardware performance improved, and users grew more aware of security risks, GoClean gradually lost its market relevance.
 
 <img src="https://content.any.run/tasks/f53742c4-e04a-4ccd-99e0-cf542f4b4878/download/screens/a8b10acc-5a21-4381-b458-c660d65faddd/image.jpeg" alt="고클린" style="max-width: 500px; width: 100%; height: auto;">
 
