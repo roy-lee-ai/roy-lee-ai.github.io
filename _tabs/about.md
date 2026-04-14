@@ -11,15 +11,13 @@ After graduating in May 2025, I spent a lot of time thinking about which industr
 
 My neighbors, who are veterans of the defense industry (including a retired Air Force Colonel with over 30 years of service, and professionals from Lockheed Martin and Leidos), shared some profound insights with me. They mentioned that while financial success is important, the satisfaction it provides eventually plateaus. However, the fulfillment derived from serving one’s country or contributing to the next generation as a scientist offers a sense of happiness that lasts a lifetime. Seeing the respect and aura of honor they carried within the community inspired me to walk a similar path.
 
-Since I am a green card holder and these goals require U.S. citizenship, I began the application process in December 2025. I recently received notice from USCIS to appear for my interview and exam within a month. As citizenship is typically granted on the day of the interview, I am standing at a major turning point in my life and career.
-
 Currently, I am simultaneously managing multiple assignments:
 
-* Citizenship exam preparations
+* U.S. Citizenship exam passed ✅
 * Studying for the CompTIA Security+ certification exam
-* Georgia Tech MSCS program (currently taking Deep Learning course)
-* AFOQT (Air Force Officer Qualifying Test)
+* Georgia Tech MSCS program (planning to take Computer Networks course during this summer for CCNA)
 * Actively seeking cybersecurity internships
+* AFOQT (Air Force Officer Qualifying Test) — pursuing a commissioning path that may take 2+ years depending on the pipeline.
 
 
 ## Education
