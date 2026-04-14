@@ -11,13 +11,11 @@ After graduating in May 2025, I spent a lot of time thinking about which industr
 
 My neighbors, who are veterans of the defense industry (including a retired Air Force Colonel with over 30 years of service, and professionals from Lockheed Martin and Leidos), shared some profound insights with me. They mentioned that while financial success is important, the satisfaction it provides eventually plateaus. However, the fulfillment derived from serving one’s country or contributing to the next generation as a scientist offers a sense of happiness that lasts a lifetime. Seeing the respect and aura of honor they carried within the community inspired me to walk a similar path.
 
-Currently, I am simultaneously managing multiple assignments:
+Currently, I am focusing on these assignments:
 
-* U.S. Citizenship exam passed ✅
 * Studying for the CompTIA Security+ certification exam
 * Georgia Tech MSCS program (planning to take Computer Networks course during this summer for CCNA)
 * Actively seeking cybersecurity internships
-* AFOQT (Air Force Officer Qualifying Test) — pursuing a commissioning path that may take 2+ years depending on the pipeline.
 
 
 ## Education
