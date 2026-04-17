@@ -19,10 +19,10 @@ I wasn't just a TA; I was the primary contact for every technical hurdle in the 
 * "My computer doesn't turn on."
 * "My device says I need to update its firmware. What is firmware?"
 * "My keyboard or mouse doesn't work."
-* "The projector won't display my laptop screen."
-* "What is the right cable for this equipment?"
-* "Which one is DP, HDMI, DVI, or USB2?"
-* "My account won't log in."
+* "The projector won't display class material"
+* "What is the right cable for this equipment? or Which one is DP, HDMI, DVI, or USB2?"
+* I am a new student could you create my account?
+* "My account won't log in. Could you reset my password?"
 * ...and the classic: "How do I lock or unlock the classroom? Where is the key?"
 
 <img src="assets/img/ta_jsong2.png" width="450" alt="projecter">
