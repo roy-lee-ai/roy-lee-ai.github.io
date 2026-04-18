@@ -1,7 +1,7 @@
 ---
 title: "Pytorch note"
 date: 2025-02-02
-categories: [Python]
+categories: [Programming]
 tags: [pytorch]     # TAG names should always be lowercase
 math: true
 ---
