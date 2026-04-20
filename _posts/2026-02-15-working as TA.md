@@ -6,8 +6,8 @@ tags: [helpdesk]     # TAG names should always be lowercase
 math: true
 ---
 
-## The TA Life: Boots on the Ground
-Before joining the ROK Army, I spent my final semester as an undergraduate Teaching Assistant (TA) at a university in Korea. While a TA in the US might focus on grading or tutoring, a TA in Korea is essentially the backbone of the department operations. It was a physically and mentally demanding grind, but the technical field experience was worth every drop of sweat.
+## The Helpdesk Life: Boots on the Ground
+Before joining the ROK Army, I worked as a Helpdesk at Kyung-il University in Korea. It was a physically and mentally demanding grind, but the technical field experience was worth every drop of sweat.
 
 <img src="assets/img/ta_jsong1.png" width="450" alt="ta">
 <p style="font-size: 14px; text-align: center; color: #666;">
@@ -15,7 +15,7 @@ Responding Daily Incidents
 </p>
 
 ## The Human FAQ: Daily Incidents
-I wasn't just a TA; I was the primary contact for every technical hurdle in the building. The raw reality of my job involved fielding these exact questions every single day:
+I wasn't just a helpdesk; I was the primary contact for every technical hurdle in the building. The raw reality of my job involved fielding these exact questions every single day:
 * "My computer doesn't turn on."
 * "My device says I need to update its firmware. What is firmware?"
 * "My keyboard or mouse doesn't work."
@@ -48,7 +48,7 @@ Hardware modernization season was tough
 </p>
 
 ## Conclusion
-Balancing my studies with TA responsibilities at a Korean university was demanding, yet it proved to be an invaluable learning experience. I gained the confidence to install any software and developed the problem-solving skills necessary to handle unexpected errors during the process.
+Balancing my studies with helpdesk responsibilities at a Korean university was demanding, yet it proved to be an invaluable learning experience. I gained the confidence to install any software and developed the problem-solving skills necessary to handle unexpected errors during the process.
 
 Additionally, I diagnosed various connectivity issues with hardware such as beam projectors, and printers. Moving heavy aluminum Mac desktops also gave me a literal, firsthand lesson in the reality of gravity.
 
