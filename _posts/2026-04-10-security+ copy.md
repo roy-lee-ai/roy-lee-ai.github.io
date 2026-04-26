@@ -1,6 +1,6 @@
 ---
 title: "CompTIA Security+: What is it? How I am studying it"
-date: 2026-03-01
+date: 2026-04-10
 categories: [Certificate]
 tags: [comptiasecurity+]     # TAG names should always be lowercase
 math: true
