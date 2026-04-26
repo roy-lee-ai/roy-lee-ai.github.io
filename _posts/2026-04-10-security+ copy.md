@@ -43,16 +43,17 @@ The standard exam voucher costs $404 USD. You can obtain discounts through the C
 ## How I am studying and how I feel about it
 I dedicate one hour every day to studying official practice questions. I am now on my fourth round of review. I have noticed that the exam content is highly factual; the questions are essentially the same and only differ in phrasing. Consequently, I believe that if I were provided with just one week of dedicated, full-time study, I could successfully pass the exam by the end of that week.
 
+## Using AI to study efficiently
+Have you tried using Google’s NotebookLM (or AI Studio) and Claude? They can seamlessly transform any PDF document into an exam-friendly format. In my case, I used them to condense Professor Messer’s verbose textbook into a concise summary and organized various practice questions into structured Excel files. Leveraging AI as a personal assistant saves a tremendous amount of time, allowing you to focus exclusively on the core material.
 
-<!-- My progression started with a first pass using a Korean Excel version, followed by a second pass with a Korean PDF, and a third pass using the English PDF. I am now on my fourth round of review using https://certempire.com/.
+I am currently on my sixth round of review using CertEmpire.
 
-Through this process, I have noticed that the exam content is highly factual; the questions are essentially the same and only differ in phrasing. Consequently, I believe that if I were provided with just one week of dedicated, full-time study, I could successfully pass the exam by the end of that week. -->
-
+Through this iterative process, I have realized that the exam content is strictly factual; the questions are essentially identical and only differ in their phrasing. Consequently, I am confident that with one week of dedicated, full-time study, I could successfully pass the exam by the end of that week.
 
 
 <!-- <img src="assets/img/security_ex.png" width="500" alt="엑셀" style="margin-top:30px;">
 <p style="font-size: 14px; text-align: center; color: #666;">
-GenAI made the original dump into an organized excel file (first pass)
+GenAI made the original practice set into an organized excel file (first pass)
 </p>
 <img src="assets/img/security_en.png" width="500" alt="영">
 <p style="font-size: 14px; text-align: center; color: #666;">
