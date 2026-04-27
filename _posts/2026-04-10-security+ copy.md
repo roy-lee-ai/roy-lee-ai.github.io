@@ -44,11 +44,11 @@ The standard exam voucher costs $404 USD. You can obtain discounts through the C
 I dedicate one hour every day to studying official practice questions. I am now on my fourth round of review. I have noticed that the exam content is highly factual; the questions are essentially the same and only differ in phrasing. Consequently, I believe that if I were provided with just one week of dedicated, full-time study, I could successfully pass the exam by the end of that week.
 
 ## Using AI to study efficiently
-Have you tried using Google’s NotebookLM (or AI Studio) and Claude? They can seamlessly transform any PDF document into an exam-friendly format. In my case, I used them to condense Professor Messer’s verbose textbook into a concise summary and organized various practice questions into structured Excel files. Leveraging AI as a personal assistant saves a tremendous amount of time, allowing you to focus exclusively on the core material.
+Have you tried using Google’s Antigravity (or AI Studio) and Claude? They can seamlessly transform any PDF document into an exam-friendly format. In my case, I used them to condense Professor Messer’s verbose textbook into a concise summary and organized various practice questions into structured Excel files. Leveraging AI as a personal assistant saves a tremendous amount of time, allowing you to focus exclusively on the core material.
 
-I am currently on my sixth round of review using CertEmpire.
+I am currently on my sixth round of review in practice problem.
 
-Through this iterative process, I have realized that the exam content is strictly factual; the questions are essentially identical and only differ in their phrasing. Consequently, I am confident that with one week of dedicated, full-time study, I could successfully pass the exam by the end of that week.
+Through this iterative process, I have realized that the exam content is strictly factual; the questions are essentially identical and only differ in their phrasing.
 
 
 <!-- <img src="assets/img/security_ex.png" width="500" alt="엑셀" style="margin-top:30px;">
